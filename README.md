@@ -1,5 +1,5 @@
 <div>
-  <a href="https://github.com/Patri6020" target="_blank"><img src="https://i.pinimg.com/originals/94/ae/fe/94aefebbb20286aedf467dea994fda32.jpg"/></a>
+  <a href="https://github.com/PatrickSFS" target="_blank"><img src="https://i.pinimg.com/originals/94/ae/fe/94aefebbb20286aedf467dea994fda32.jpg"/></a>
 </div>
 
 
@@ -8,11 +8,11 @@
 
 
 <div align="left">
-  <a href="https://github.com/Patri6020">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patri6020&tokyonight&show_icons=true&theme=transparent"/>
+  <a href="https://github.com/PatrickSFS">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatrickSFS&tokyonight&show_icons=true&theme=transparent"/>
   </a>
-  <a href="https://github.com/Patri6020">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patri6020&tokyonight&show_icons=true&theme=transparent"/>
+  <a href="https://github.com/PatrickSFS">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickSFS&tokyonight&show_icons=true&theme=transparent"/>
   </a>
 </div>
 
@@ -25,11 +25,11 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/Patri6020" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/github.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/PatrickSFS" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/github.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="mailto:patrick.freitas@engenharia.ufjf.br" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/gmail.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/Patri6020/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/insta.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/PatrickSFS/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/insta.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://www.linkedin.com/in/patrick-freitas-5bb062194/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
 </td>
